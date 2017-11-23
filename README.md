@@ -4,8 +4,8 @@ Learning to use analytics and data visualization features in Python using "Pytho
 
 Projects:
 
-Graph temp data from CSV
-Graph stock data from CSV
+Graph temp data from CSV \n
+Graph stock data from CSV \n
 Create bar chart
 
 In progress:
